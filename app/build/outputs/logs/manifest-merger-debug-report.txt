@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d3fe1dd8dfe6ea989d0e53a8b909c4f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e382d80bac386c9eba70e6f0128970d1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\8dab6c1cae08569168fdf752b29c806f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\470a469f3e86db4a5401f05805fff34e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d6494bd309cfd8b6cc1aa0ec04fb9532\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4513292278ddc6031d761ed46c6f153e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b8397e993dc6e7f0e4ae09afc58922e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5b66a0d864d7d96e636f4498237d555f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\46dfdbaadecf6c1794475d386289f808\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b56ddaea5230c9f34cf30c37ff03eb4e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c79047fb13d3aba63925a2630c998d23\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\709b65cd9a0da0e504d9e6d1a0d9e7b5\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e382d80bac386c9eba70e6f0128970d1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e382d80bac386c9eba70e6f0128970d1\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.bharat.justjava.MainActivity
+ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d3fe1dd8dfe6ea989d0e53a8b909c4f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d3fe1dd8dfe6ea989d0e53a8b909c4f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e382d80bac386c9eba70e6f0128970d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e382d80bac386c9eba70e6f0128970d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\8dab6c1cae08569168fdf752b29c806f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\8dab6c1cae08569168fdf752b29c806f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\470a469f3e86db4a5401f05805fff34e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\470a469f3e86db4a5401f05805fff34e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d6494bd309cfd8b6cc1aa0ec04fb9532\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d6494bd309cfd8b6cc1aa0ec04fb9532\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4513292278ddc6031d761ed46c6f153e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4513292278ddc6031d761ed46c6f153e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b8397e993dc6e7f0e4ae09afc58922e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b8397e993dc6e7f0e4ae09afc58922e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5b66a0d864d7d96e636f4498237d555f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5b66a0d864d7d96e636f4498237d555f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\46dfdbaadecf6c1794475d386289f808\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\46dfdbaadecf6c1794475d386289f808\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b56ddaea5230c9f34cf30c37ff03eb4e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b56ddaea5230c9f34cf30c37ff03eb4e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c79047fb13d3aba63925a2630c998d23\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c79047fb13d3aba63925a2630c998d23\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\709b65cd9a0da0e504d9e6d1a0d9e7b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\bharat\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\709b65cd9a0da0e504d9e6d1a0d9e7b5\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bharat\Downloads\JustJava\app\src\main\AndroidManifest.xml

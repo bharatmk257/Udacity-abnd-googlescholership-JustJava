@@ -776,6 +776,7 @@ id topPanel
 id uniform
 id up
 id useLogo
+id whipped_cream
 id withText
 id wrap
 id wrap_content

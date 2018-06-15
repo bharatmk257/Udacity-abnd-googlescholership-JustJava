@@ -95,38 +95,6 @@
             ]
         },
         {
-            "outputFile": "/run/media/bharatmk257/06EC803EEC802A4F/Users/bharat/Downloads/JustJava/app/build/intermediates/res/merged/debug/values-mk_values-mk.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/bharatmk257/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4f0369baccd01c8b497564a3343d8710/res/values-mk/values-mk.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,317,425,511,616,735,818,900,987,1093,1200,1301,1408,1519,1623,1779,1877",
-                        "endColumns": "107,103,107,85,104,118,82,81,86,105,106,100,106,110,103,155,97,83",
-                        "endOffsets": "208,312,420,506,611,730,813,895,982,1088,1195,1296,1403,1514,1618,1774,1872,1956"
-                    }
-                },
-                {
-                    "source": "/home/bharatmk257/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c416841f7a9d0ae27284b56db217bfb4/res/values-mk/values-mk.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1961",
-                        "endColumns": "100",
-                        "endOffsets": "2057"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/run/media/bharatmk257/06EC803EEC802A4F/Users/bharat/Downloads/JustJava/app/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat",
             "map": [
                 {
@@ -159,20 +127,20 @@
             ]
         },
         {
-            "outputFile": "/run/media/bharatmk257/06EC803EEC802A4F/Users/bharat/Downloads/JustJava/app/build/intermediates/res/merged/debug/values-vi_values-vi.arsc.flat",
+            "outputFile": "/run/media/bharatmk257/06EC803EEC802A4F/Users/bharat/Downloads/JustJava/app/build/intermediates/res/merged/debug/values-mk_values-mk.arsc.flat",
             "map": [
                 {
-                    "source": "/home/bharatmk257/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4f0369baccd01c8b497564a3343d8710/res/values-vi/values-vi.xml",
+                    "source": "/home/bharatmk257/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4f0369baccd01c8b497564a3343d8710/res/values-mk/values-mk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,219,327,436,520,623,742,819,896,980,1084,1193,1294,1399,1513,1618,1775,1874",
-                        "endColumns": "113,107,108,83,102,118,76,76,83,103,108,100,104,113,104,156,98,83",
-                        "endOffsets": "214,322,431,515,618,737,814,891,975,1079,1188,1289,1394,1508,1613,1770,1869,1953"
+                        "startOffsets": "105,213,317,425,511,616,735,818,900,987,1093,1200,1301,1408,1519,1623,1779,1877",
+                        "endColumns": "107,103,107,85,104,118,82,81,86,105,106,100,106,110,103,155,97,83",
+                        "endOffsets": "208,312,420,506,611,730,813,895,982,1088,1195,1296,1403,1514,1618,1774,1872,1956"
                     }
                 },
                 {
-                    "source": "/home/bharatmk257/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c416841f7a9d0ae27284b56db217bfb4/res/values-vi/values-vi.xml",
+                    "source": "/home/bharatmk257/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c416841f7a9d0ae27284b56db217bfb4/res/values-mk/values-mk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -183,9 +151,9 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "1958",
+                        "startOffsets": "1961",
                         "endColumns": "100",
-                        "endOffsets": "2054"
+                        "endOffsets": "2057"
                     }
                 }
             ]
@@ -218,6 +186,38 @@
                         "startOffsets": "2005",
                         "endColumns": "100",
                         "endOffsets": "2101"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/run/media/bharatmk257/06EC803EEC802A4F/Users/bharat/Downloads/JustJava/app/build/intermediates/res/merged/debug/values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/bharatmk257/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4f0369baccd01c8b497564a3343d8710/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,219,327,436,520,623,742,819,896,980,1084,1193,1294,1399,1513,1618,1775,1874",
+                        "endColumns": "113,107,108,83,102,118,76,76,83,103,108,100,104,113,104,156,98,83",
+                        "endOffsets": "214,322,431,515,618,737,814,891,975,1079,1188,1289,1394,1508,1613,1770,1869,1953"
+                    }
+                },
+                {
+                    "source": "/home/bharatmk257/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c416841f7a9d0ae27284b56db217bfb4/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1958",
+                        "endColumns": "100",
+                        "endOffsets": "2054"
                     }
                 }
             ]
@@ -975,33 +975,33 @@
             ]
         },
         {
-            "outputFile": "/run/media/bharatmk257/06EC803EEC802A4F/Users/bharat/Downloads/JustJava/app/build/intermediates/res/merged/debug/values-en-rIN_values-en-rIN.arsc.flat",
+            "outputFile": "/run/media/bharatmk257/06EC803EEC802A4F/Users/bharat/Downloads/JustJava/app/build/intermediates/res/merged/debug/values-be_values-be.arsc.flat",
             "map": [
                 {
-                    "source": "/home/bharatmk257/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4f0369baccd01c8b497564a3343d8710/res/values-en-rIN/values-en-rIN.xml",
+                    "source": "/home/bharatmk257/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4f0369baccd01c8b497564a3343d8710/res/values-be/values-be.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
-                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
-                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
+                        "startOffsets": "105,225,328,444,530,638,756,835,913,996,1102,1208,1306,1414,1519,1624,1793,1893",
+                        "endColumns": "119,102,115,85,107,117,78,77,82,105,105,97,107,104,104,168,99,80",
+                        "endOffsets": "220,323,439,525,633,751,830,908,991,1097,1203,1301,1409,1514,1619,1788,1888,1969"
                     }
                 },
                 {
-                    "source": "/home/bharatmk257/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c416841f7a9d0ae27284b56db217bfb4/res/values-en-rIN/values-en-rIN.xml",
+                    "source": "/home/bharatmk257/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c416841f7a9d0ae27284b56db217bfb4/res/values-be/values-be.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "endColumns": "108",
+                        "endOffsets": "159"
                     },
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "1907",
-                        "endColumns": "100",
-                        "endOffsets": "2003"
+                        "startOffsets": "1974",
+                        "endColumns": "108",
+                        "endOffsets": "2078"
                     }
                 }
             ]
@@ -1039,33 +1039,33 @@
             ]
         },
         {
-            "outputFile": "/run/media/bharatmk257/06EC803EEC802A4F/Users/bharat/Downloads/JustJava/app/build/intermediates/res/merged/debug/values-be_values-be.arsc.flat",
+            "outputFile": "/run/media/bharatmk257/06EC803EEC802A4F/Users/bharat/Downloads/JustJava/app/build/intermediates/res/merged/debug/values-en-rIN_values-en-rIN.arsc.flat",
             "map": [
                 {
-                    "source": "/home/bharatmk257/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4f0369baccd01c8b497564a3343d8710/res/values-be/values-be.xml",
+                    "source": "/home/bharatmk257/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4f0369baccd01c8b497564a3343d8710/res/values-en-rIN/values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,225,328,444,530,638,756,835,913,996,1102,1208,1306,1414,1519,1624,1793,1893",
-                        "endColumns": "119,102,115,85,107,117,78,77,82,105,105,97,107,104,104,168,99,80",
-                        "endOffsets": "220,323,439,525,633,751,830,908,991,1097,1203,1301,1409,1514,1619,1788,1888,1969"
+                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
+                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
+                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
                     }
                 },
                 {
-                    "source": "/home/bharatmk257/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c416841f7a9d0ae27284b56db217bfb4/res/values-be/values-be.xml",
+                    "source": "/home/bharatmk257/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c416841f7a9d0ae27284b56db217bfb4/res/values-en-rIN/values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endColumns": "108",
-                        "endOffsets": "159"
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     },
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "1974",
-                        "endColumns": "108",
-                        "endOffsets": "2078"
+                        "startOffsets": "1907",
+                        "endColumns": "100",
+                        "endOffsets": "2003"
                     }
                 }
             ]

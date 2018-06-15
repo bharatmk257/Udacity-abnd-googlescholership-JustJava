@@ -4,6 +4,7 @@ package com.example.bharat.justjava;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.CheckBox;
 import android.widget.TextView;
 
 import java.text.NumberFormat;
@@ -41,8 +42,11 @@ public class MainActivity extends AppCompatActivity {
      * This method is called when the order button is clicked.
      */
     public void submitOrder(View view) {
+        CheckBox whippedCreamCheckBox = (CheckBox)findViewById(R.id.whipped_cream);
+        boolean hasWhippedCream = whippedCreamCheckBox.isChecked();
         int price = calculatePrice();
-        displayMessage(createOrderSummary(price));
+        String priceMessage = createOrderSummary(price, hasWhippedCream);
+        displayMessage(priceMessage);
     }
 
     /**
@@ -50,8 +54,9 @@ public class MainActivity extends AppCompatActivity {
      *
      * @return order summary
      */
-    private String createOrderSummary(int price) {
+    private String createOrderSummary(int price, boolean addWhippedCream) {
         String priceMessage = "Name : Bharat Makwana";
+        priceMessage += "\nAdd Whipped Cream? " + addWhippedCream;
         priceMessage += "\nQuantity : " + quantity;
         priceMessage += "\ntotal : ₹" + calculatePrice();
         priceMessage += "\nThank You";

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Jun 15 01:15:39 IST 2018
+#Sat Jun 16 01:53:59 IST 2018
 0.base=/run/media/bharatmk257/06EC803EEC802A4F/Users/bharat/Downloads/JustJava/app/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex
 count=1

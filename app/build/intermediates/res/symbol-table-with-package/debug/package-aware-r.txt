@@ -675,6 +675,7 @@ id center_horizontal
 id center_vertical
 id chains
 id checkbox
+id chocolate_checkbox
 id chronometer
 id clip_horizontal
 id clip_vertical
@@ -713,6 +714,7 @@ id list_item
 id message
 id middle
 id multiply
+id name_Edit_Text
 id never
 id none
 id normal

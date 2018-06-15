@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.CheckBox;
+import android.widget.EditText;
 import android.widget.TextView;
 
 import java.text.NumberFormat;
@@ -42,21 +43,37 @@ public class MainActivity extends AppCompatActivity {
      * This method is called when the order button is clicked.
      */
     public void submitOrder(View view) {
+
+        //add checkbox for whipped cream
         CheckBox whippedCreamCheckBox = (CheckBox)findViewById(R.id.whipped_cream);
         boolean hasWhippedCream = whippedCreamCheckBox.isChecked();
+
+        //add checkbox for chocolate
+        CheckBox chocolateCheckBox = (CheckBox)findViewById(R.id.chocolate_checkbox);
+        boolean hasChocolate = chocolateCheckBox.isChecked();
+
+        //get name from edit text method
+        EditText nameEditText = (EditText)findViewById(R.id.name_Edit_Text);
+        String name = nameEditText.getText().toString();
+
+        //calculate price from all methods to display price
         int price = calculatePrice();
-        String priceMessage = createOrderSummary(price, hasWhippedCream);
+        String priceMessage = createOrderSummary(name, price, hasWhippedCream, hasChocolate);
         displayMessage(priceMessage);
     }
 
     /**
      * @param price of the order
+     * @param name of the order
+     * @param addChocolate of the order
+     * @param addWhippedCream of the order
      *
      * @return order summary
      */
-    private String createOrderSummary(int price, boolean addWhippedCream) {
-        String priceMessage = "Name : Bharat Makwana";
+    private String createOrderSummary(String name, int price, boolean addWhippedCream, boolean addChocolate) {
+        String priceMessage = "Name : "+ name;
         priceMessage += "\nAdd Whipped Cream? " + addWhippedCream;
+        priceMessage += "\nAdd Chocolate? " + addChocolate;
         priceMessage += "\nQuantity : " + quantity;
         priceMessage += "\ntotal : ₹" + calculatePrice();
         priceMessage += "\nThank You";

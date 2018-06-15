@@ -665,7 +665,7 @@ public final class R {
         public static final int notification_background = 0x7f070051;
         public static final int notification_main_column = 0x7f070052;
         public static final int notification_main_column_container = 0x7f070053;
-        public static final int parentPanel = 0x7f070056;
+        public static final int parentPanel = 0x7f070057;
         public static final int progress_circular = 0x7f070059;
         public static final int progress_horizontal = 0x7f07005a;
         public static final int radio = 0x7f07005c;

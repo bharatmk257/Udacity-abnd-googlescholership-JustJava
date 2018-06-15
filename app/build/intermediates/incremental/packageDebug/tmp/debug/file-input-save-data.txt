@@ -1,11 +1,7 @@
 #Internal package file, do not edit.
-#Sat Jun 02 12:24:17 IST 2018
-1.base=C\:\\Users\\bharat\\Downloads\\JustJava\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
-0.baseType=DIRECTORY
-1.baseType=DIRECTORY
-count=2
-1.set=DEX
+#Fri Jun 15 01:15:39 IST 2018
+0.base=/run/media/bharatmk257/06EC803EEC802A4F/Users/bharat/Downloads/JustJava/app/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
 0.set=DEX
-0.base=C\:\\Users\\bharat\\Downloads\\JustJava\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
-1.path=classes.dex

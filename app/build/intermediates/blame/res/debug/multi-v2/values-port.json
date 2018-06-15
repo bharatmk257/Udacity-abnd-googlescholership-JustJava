@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\bharat\\Downloads\\JustJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "outputFile": "/run/media/bharatmk257/06EC803EEC802A4F/Users/bharat/Downloads/JustJava/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\bharat\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\d3fe1dd8dfe6ea989d0e53a8b909c4f0\\res\\values-port\\values-port.xml",
+                    "source": "/home/bharatmk257/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4f0369baccd01c8b497564a3343d8710/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

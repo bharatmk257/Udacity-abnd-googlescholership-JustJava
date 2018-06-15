@@ -83,9 +83,9 @@ public final class R {
         public static final int invisible = 0x7f070044;
         public static final int left = 0x7f070046;
         public static final int none = 0x7f07004f;
-        public static final int packed = 0x7f070054;
-        public static final int parent = 0x7f070055;
-        public static final int percent = 0x7f070057;
+        public static final int packed = 0x7f070055;
+        public static final int parent = 0x7f070056;
+        public static final int percent = 0x7f070058;
         public static final int right = 0x7f07005d;
         public static final int spread = 0x7f070075;
         public static final int spread_inside = 0x7f070076;

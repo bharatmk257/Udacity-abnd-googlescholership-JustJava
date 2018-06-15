@@ -718,11 +718,11 @@ int id normal 0x7f070050
 int id notification_background 0x7f070051
 int id notification_main_column 0x7f070052
 int id notification_main_column_container 0x7f070053
-int id packed 0x7f070054
-int id parent 0x7f070055
-int id parentPanel 0x7f070056
-int id percent 0x7f070057
-int id price_text_view 0x7f070058
+int id order_summary_text_view 0x7f070054
+int id packed 0x7f070055
+int id parent 0x7f070056
+int id parentPanel 0x7f070057
+int id percent 0x7f070058
 int id progress_circular 0x7f070059
 int id progress_horizontal 0x7f07005a
 int id quantity_text_view 0x7f07005b

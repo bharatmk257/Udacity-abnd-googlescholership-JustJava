@@ -719,11 +719,11 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id order_summary_text_view
 id packed
 id parent
 id parentPanel
 id percent
-id price_text_view
 id progress_circular
 id progress_horizontal
 id quantity_text_view

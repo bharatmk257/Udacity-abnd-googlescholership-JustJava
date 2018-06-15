@@ -1,7 +1,4 @@
-#Sun Jun 03 23:59:36 IST 2018
-base.0=C\:\\Users\\bharat\\Downloads\\JustJava\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
-path.1=classes.dex
-renamed.1=classes2.dex
-path.0=classes.dex
+#Fri Jun 15 01:15:29 IST 2018
+base.0=/run/media/bharatmk257/06EC803EEC802A4F/Users/bharat/Downloads/JustJava/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
-base.1=C\:\\Users\\bharat\\Downloads\\JustJava\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+path.0=classes.dex
